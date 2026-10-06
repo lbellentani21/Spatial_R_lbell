@@ -7,5 +7,6 @@
 
 2° METODO: Folder
 Creare una cartella e fare upload dei file
-<img 
+
+<img src="Pics/dji_fly_20241226_054143_0_1735188103432_photo_low_quality.JPG">
 
